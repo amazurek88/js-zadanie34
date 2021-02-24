@@ -15,3 +15,6 @@ let result = num1 + num2;
 
 return result;
 }
+
+sum(79,42);
+console.log(sum(79,42));
